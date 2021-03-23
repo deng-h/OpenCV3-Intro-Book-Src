@@ -14,6 +14,7 @@ using namespace cv; //包含cv命名空间
 
 int main()
 {
+	//test
 	// 【1】读入一张图片
 	Mat img=imread("1.jpg");
 	// 【2】在窗口中显示载入的图片
